@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sarthaksarangi
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Competitive Programming 
 - 🌱 I’m currently learning Data Structures And Algorithms 
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on instagram @_sarttthak_
 
 <!---
